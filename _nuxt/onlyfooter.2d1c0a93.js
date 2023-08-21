@@ -1,0 +1,1 @@
+import{_ as t}from"./defaultfooter.4e9e3b30.js";import{_ as n,c as r,k as s,b as a,o as c}from"./entry.69586d52.js";import"./nuxt-link.57181184.js";const _={};function p(o,f,l,d,m,u){const e=t;return c(),r("div",null,[s(o.$slots,"default"),a(e)])}const x=n(_,[["render",p]]);export{x as default};
