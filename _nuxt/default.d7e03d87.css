@@ -1,0 +1,1 @@
+@keyframes slide-out-right{0%{transform:translate(0);visibility:visible}to{transform:translate(100%);visibility:hidden}}.slide-out-right{animation:slide-out-right 3s linear infinite}
